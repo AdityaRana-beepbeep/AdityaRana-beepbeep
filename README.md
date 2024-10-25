@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaRana-beepbeep
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning AI abd GoLang
+- 🌱 I’m currently learning AI and GoLang
 - 💞️ I’m looking to collaborate on live projects
 - 📫 How to reach me Telegram: @theadityarana
 - 😄 Pronouns: He/Him
